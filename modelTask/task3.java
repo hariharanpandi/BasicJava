@@ -24,7 +24,7 @@ public class task3
 					{
 					System.out.print(no1+" ");
 					no1=no1+2;
-					}
+					} 	
 				}
 				else
 				{
@@ -33,7 +33,7 @@ public class task3
 						System.out.print(no2+" ");
 						no2=no2+2;
 					}
-					else
+					else 
 					{
 						System.out.print(no2+" ");
 						no2=no2+2;
